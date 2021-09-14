@@ -1,0 +1,26 @@
+#mainNav{
+	background-color: #DD4B39!important;
+}
+#user{
+	height: 25px;
+	width: 25px;
+}
+#panel-image{
+	height: 45px;
+	width: 45px;
+}
+
+body{
+	background: silver;
+}
+
+form{
+	margin-top: 10%;
+	background-color: white;
+	padding: 20px;
+	border-radius: 20px;
+}
+.card{
+	background-color: #DD4B39!important;
+}
+
